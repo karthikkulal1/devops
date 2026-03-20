@@ -1,3 +1,21 @@
 this is my file
 i want to edit it
-i am working on it 
+i am working on it
+vim file name
+git status = checks status
+git add . 
+git commit -m "message"
+git push
+
+git branch branch name
+git branch -a = to see all branch
+git push -u origin branch name
+git checkout branch name
+
+for adding tag first check log
+git log
+git tag name coppy frist some letter of commit id 
+git push origin name
+
+git init   to initialize
+ 
